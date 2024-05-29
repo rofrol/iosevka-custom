@@ -4,8 +4,7 @@ My custom Iosevka font.
 
 - Shapes and width similar to [Zed Mono](https://github.com/zed-industries/zed-fonts).
 - No ligatures, no italics, no bold.
-- Nerd font patched.
-- All icons with `--complete`.
+- No need to patch with Nerd Fonts. Just install Symbols Nerd Font Mono from the [Nerd Fonts releases page](https://github.com/ryanoasis/nerd-fonts/releases). [More info](https://sw.kovidgoyal.net/kitty/faq/#kitty-is-not-able-to-use-my-favorite-font)
 
 > The variant Iosevka Term is designed to better support terminals and the variant Iosevka Fixed omits the ligatures. <https://en.wikipedia.org/wiki/Iosevka>
 
